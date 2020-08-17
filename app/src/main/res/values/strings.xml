@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">upraxismobile</string>
+    <string name="error_fetch_person">Error getting data.</string>
+</resources>
